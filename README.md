@@ -39,9 +39,7 @@
 
 ## 요구 사항
 
-| | |
-|---|---|
-| macOS | 13.0 Ventura 이상 |
+macOS 13.0 Ventura 이상
 
 ---
 
