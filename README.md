@@ -72,4 +72,7 @@ brew untap So-Yul-e/pmon
 
 ---
 
-[소스 코드 보기 →](https://github.com/So-Yul-e/PMON)
+## 링크
+
+- 릴리즈(다운로드): https://github.com/So-Yul-e/homebrew-pmon/releases
+- 소스 코드: 현재 비공개(Private) 저장소로 운영 중입니다.

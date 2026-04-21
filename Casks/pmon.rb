@@ -5,7 +5,7 @@ cask "pmon" do
   url "https://github.com/So-Yul-e/homebrew-pmon/releases/download/v#{version}/PMON-#{version}.zip"
   name "PMON"
   desc "Process Monitor for macOS — menu bar app for ports and Docker"
-  homepage "https://github.com/So-Yul-e/PMON"
+  homepage "https://github.com/So-Yul-e/homebrew-pmon"
 
   app "PMON.app"
 
