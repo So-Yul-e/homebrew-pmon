@@ -1,6 +1,6 @@
 cask "pmon" do
-  version "1.1.0"
-  sha256 "4e7ac8d0b26781baeeff0f02af8f66241903d75e2505e5e3c1f840ee9f9fe09a"
+  version "1.2.0"
+  sha256 "15181188e18456e0249213196300692be2e79e34660a8ef4d14b17e38a965392"
 
   url "https://github.com/So-Yul-e/homebrew-pmon/releases/download/v#{version}/PMON-#{version}.zip"
   name "PMON"
